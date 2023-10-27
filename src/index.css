@@ -40,7 +40,7 @@ body {
 
 .form--submit {
   width: 50%;
-  padding: 10px;
+  padding: 11px;
   border-radius: 5px;
   color: white;
   background-color: #639;
@@ -50,7 +50,7 @@ body {
 
 .form--marketing {
   display: flex;
-  margin-bottom: 20px;
+  margin-bottom: 21px;
   align-items: center;
 }
 
